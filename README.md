@@ -1,1 +1,19 @@
-# Yoda32s.github.io
+<!DOCTYPE html>
+<html>
+   <head>
+     <meta charset="UTF-8">
+     <meta name="description" conetent="This website is for...">
+     <title> My website posada </title>
+
+   </head>
+   <body style = "background-color: gold">
+     <h2> ORO </h2>
+     <p style = "color: grey; background-color: blue;" > Nice color bor </p>
+
+
+
+
+
+   </body>
+
+</html>
